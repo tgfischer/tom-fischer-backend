@@ -25,6 +25,7 @@
     "express-async-handler": "^1.1.3",
     "http-status-codes": "^1.3.0",
     "path": "^0.12.7",
-    "serverless-http": "^1.6.0"
+    "serverless-http": "^1.6.0",
+    "tom-fischer-middleware": "^1.0.0"
   }
 }
